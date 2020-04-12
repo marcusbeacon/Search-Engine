@@ -1,5 +1,7 @@
 # Search Engine - 1660 Final Project Submission
 
+Link to video demo: https://youtu.be/g7XXijibbPw
+
 Requirements completed:
 1. First Java Application Implementation and Execution on
 Docker
