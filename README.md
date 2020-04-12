@@ -21,5 +21,5 @@ docker run -it --privileged -e DISPLAY=$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix
 InvertedIndex.java can be found in the InvertedIndex folder  
 The main GUI application (SearchEngine.java) can be found in SearchEngine/src/main/java/com/mkb90/app
 
-Maven had to be utilized for this project in order to make connections between GCP and the GUI for uploading, downloading, and submitting jobs. Documentation at https://cloud.google.com/storage/docs/how-to was followed in order to properly write functions for interacting with GCP.
+Maven had to be utilized for this project in order to make connections between GCP and the GUI for uploading files, downloading files, and submitting jobs. Documentation at https://cloud.google.com/storage/docs/how-to was followed in order to properly write functions for interacting with GCP.
 
